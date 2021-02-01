@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfWfqegnjkt2GgtBJHCbUGmKsl8cN4jtcnD6Hk5xoN4TA8n0V0fkKmgd4+pZ8AAk1/BjlWASm6u8yzk/ETytqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил\\source\\repos\\PMHW6\\Task_3\\Task_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\csvhelper\\22.1.0\\csvhelper.22.1.0.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
